@@ -9,6 +9,7 @@ To do list requires [Node.js](https://nodejs.org/) v12+ to run.
 Install the dependencies and start the server.
 
 ```sh
+$ git clone https://github.com/blueC4P/angular-todolist-crud.git
 $ cd angular-todolist-crud
 $ npm i
 $ npm run json-server
