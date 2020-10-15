@@ -1,7 +1,3 @@
-{ "tasks":
-    [
-      {"title": "tarea 1" , "id": 1},
-      {"title": "tarea 2", "id": 2},
-      {"title": "tarea 3", "id": 3}
-    ]
-  }
+{
+  "tasks": []
+}
