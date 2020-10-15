@@ -5,7 +5,7 @@
     <div class="form-group">
       <label for="exampleInputEmail1">Nueva tarea</label>
       <input type="text" class="form-control mb-2" [(ngModel)]="task.title">
-      <button type="button"  class="btn btn-success"(click)="addTask(task)" [disabled] = "task.title.length == 0 || task.title.trim() == ''">Guardar</button>
+      <button type="button"  class="btn btn-success"(click)="addTask(task)" [disabled] = "task.title.trim() == ''">Guardar</button>
     </div>
 
   </div>
